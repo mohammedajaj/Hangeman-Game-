@@ -1,3 +1,4 @@
+# Hangman Game
  Hangman-Game
  styling css 
  store word in object and guess the letters
